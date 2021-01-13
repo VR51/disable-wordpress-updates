@@ -4,6 +4,12 @@
  *
  * @package WordPress_Plugins
  * @subpackage OS_Disable_WordPress_Updates
+ *
+ *	TO-DO
+ *		Add time slot window for updates e.g. Between 6am and 7am, 12pm and 1pm, 6pm and 7pm, 12am and 1am
+ *			- Every x hours
+ *		Install as must use
+ *
  */
 
 /*
